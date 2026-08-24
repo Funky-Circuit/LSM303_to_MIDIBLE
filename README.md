@@ -18,6 +18,6 @@ LSM303ARG module: https://www.adafruit.com/product/4413
 
 all the code for this project was made using the Arduino IDE and the following libraries:
 
-NimBLE: https://github.com/h2zero/NimBLE-Arduino
-Arduino ESP32: https://github.com/espressif/arduino-esp32
-Adafruit LSM303 accel: https://github.com/adafruit/Adafruit_LSM303_Accel
+- NimBLE: https://github.com/h2zero/NimBLE-Arduino
+- Arduino ESP32: https://github.com/espressif/arduino-esp32
+- Adafruit LSM303 accel: https://github.com/adafruit/Adafruit_LSM303_Accel
